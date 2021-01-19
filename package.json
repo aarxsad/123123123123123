@@ -1,0 +1,18 @@
+{
+  "name": "reboot",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "ruya",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "send": "^0.17.1"
+  }
+}
